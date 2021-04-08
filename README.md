@@ -6,5 +6,5 @@ whats up it is class for today lets go
 
 #fun times
 
-![cooler pic](perfect prof pic.jpg)
+![cooler pic](perfect prof pic.jpeg)
 
