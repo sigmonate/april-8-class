@@ -6,5 +6,5 @@ whats up it is class for today lets go
 
 #fun times
 
-![cool cat pic](cat.jpg)
+![cool cat pic](cat.png)
 
